@@ -20,6 +20,7 @@ DELIMITER = ';'
 DECIMAL_CHAR = ','
 HEADER_ROW_INDEX = 8
 DATE_COLUMNS = ["Дата и время транзакции", "Дата обработки транзакции"]
+METADATA_ROWS_COUNT = 8
 
 # СТОЛБЦЫ ДЛЯ УНИКАЛЬНОГО КЛЮЧА UPSERT
 UNIQUE_UPSERT_COLS = [
